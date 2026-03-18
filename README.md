@@ -1,0 +1,2 @@
+# online-class-user-analysis
+온라인 강의 사용자 로그 분석 프로젝트
