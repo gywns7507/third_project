@@ -1,19 +1,11 @@
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.egg
-*.egg-info/
-dist/
-build/
 
 # Virtual environment (uv)
 .venv/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Data files
 *.csv
@@ -24,13 +16,8 @@ build/
 *.json
 data/
 
-# Environment variables
-.env
-.env.*
-
 # macOS
 .DS_Store
 
 # IDE
-.idea/
-*.swp
+.vscode/
